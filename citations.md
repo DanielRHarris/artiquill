@@ -1,4 +1,4 @@
-Citations can be added, updated, inserted, and removed through the "Citation" tab in the toolbox.
+Citations can be added, updated, inserted, and removed through the "Citations" tab in the toolbox.
 
 \* Please note that this functionality is in early release. Exporting to and integration with EndNote and other citation managers is in the development pipeline.
 
@@ -8,7 +8,7 @@ Citations can be added, updated, inserted, and removed through the "Citation" ta
 
 #### Creating Citations
 
-**1.** To create a citation, click the "Add" button in the upper right hand corner of the Citations tab, and select the type of document to be cited \(currently supported document types include journal articles, books and websites\).
+**1.** To create a citation, click the "Add" button in the upper right hand corner of the "Citations" tab, and select the type of document to be cited \(currently supported document types include journal articles, books and websites\).
 
 **2.** Fill in as many fields as possible in the citation creation form, and click "Update Citation".
 
@@ -20,9 +20,9 @@ To insert an inline citation, place your cursor at the end of the sentence to be
 
 #### Exporting Citations
 
-Upon [exporting a document](/exporting.md), citation placeholders are replaced with citation data, and a bibliography of citations is inserted into the bottom of an exported document, styled according to the user selected "Citation Format" option.
+Upon [exporting a document](/exporting.md), citation placeholders are replaced with citation data, and a bibliography of citations is inserted into the bottom of an exported document, styled according to the user selected ["Citation Format" option](/options.md#citation-format).
 
-Available citation formats include APA, MLA, Chicago and Harvard styles. The preferred citation format can be selected in the [options menu](/options.md#citation-format).
+Available citation formats include APA, MLA, Chicago and Harvard styles.
 
 \* Please note that exporting in Chicago style will not result in footnotes -- these will have to be manually filled in from the generated bibliography.
 
