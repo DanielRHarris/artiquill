@@ -1,12 +1,8 @@
-# Writing & Grammar
-
 Built on top of a powerful natural speech engine, the writing and grammar tools aid in writing refinement and editing.
 
 Activate one or more of the following writing and grammar modules from the "Activated Modules" top menu, and view the feedback from the "Writing & Grammar" toolbox tab. \*Please note that activating too many modules at once may slow down the editor.
 
 ![](/assets/activated-modules.jpeg)
-
-
 
 #### Indefinite Articles
 
@@ -52,7 +48,7 @@ Checks for use of cliches.
 
 #### Contractions
 
-Checks for missing/incorrect use of contractions.
+Checks for missing/incorrect use of [contractions](http://www.ef.com/english-resources/english-grammar/apostrophe/).
 
 ![](/assets/contractions.jpeg)
 
@@ -79,6 +75,4 @@ Checks for use of profanity.
 Checks for redundant acronyms.
 
 ![](/assets/redundant-acronyms.jpeg)
-
-
 

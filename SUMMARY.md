@@ -10,4 +10,5 @@
 * [Exporting](exporting.md)
 * [Statistics](statistics.md)
 * [Options](options.md)
+* [Changelog](changelog.md)
 
