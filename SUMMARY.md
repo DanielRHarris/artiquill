@@ -11,6 +11,5 @@
 * [Statistics](statistics.md)
 * [Options](options.md)
 * [Changelog](changelog.md)
-
-
+* [Privacy Policy](privacy-policy.md)
 
