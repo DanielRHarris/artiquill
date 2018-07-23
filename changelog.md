@@ -1,4 +1,12 @@
-
+```
+v0.2.2
+Fixed bug preventing file exporting on Android.
+Fixed bug duplicating/doubling file content each time the file was read.
+Night mode no longer set on by default on fresh install
+Added backward compatibility for reading the old Artiquill file format.
+Further optimized & increased proofreading performance.
+Reorganized the proofreading layout for easier navigation between types of results.
+```
 
 ```
 v0.2.1
@@ -28,8 +36,6 @@ v0.1.1 - Fixed languages list to remove unsupported languages.
 ```
 v0.1.0 - Initial release
 ```
-
-
 
 
 
