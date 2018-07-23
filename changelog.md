@@ -1,5 +1,6 @@
 ```
 v0.2.2
+Status bar now correctly styled to match night mode theme when enabled.
 Fixed bug preventing file exporting on Android.
 Fixed bug duplicating/doubling file content each time the file was read.
 Night mode no longer set on by default on fresh install
