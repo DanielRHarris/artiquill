@@ -1,5 +1,6 @@
 ```
 v0.2.2
+Added readability proofreading tool (catches hard-to-read sentences).
 No longer unloads documentation and other overlays on close.
 Fixed keyboard shortcut typing bug inserting part of shortcut into editor.
 Added background music/video player
