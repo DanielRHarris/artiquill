@@ -1,5 +1,12 @@
 ```
 v0.2.2
+No longer unloads documentation and other overlays on close.
+Fixed keyboard shortcut typing bug inserting part of shortcut into editor.
+Added background music/video player
+Added splash screen for platforms without native support.
+Added keyboard shortcuts (see documentation).
+Added help button that opens documentation in-app.
+Added indication of lack of proofreading problems.
 Status bar now correctly styled to match night mode theme when enabled.
 Fixed bug preventing file exporting on Android.
 Fixed bug duplicating/doubling file content each time the file was read.
