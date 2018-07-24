@@ -15,6 +15,10 @@ Night mode no longer set on by default on fresh install
 Added backward compatibility for reading the old Artiquill file format.
 Further optimized & increased proofreading performance.
 Reorganized the proofreading layout for easier navigation between types of results.
+Added spelling proofreading module.
+Mac OS version now uses native dialogs for file export.
+Dramatically reduced the size of the Microsoft Word (.docx) file exports.
+Exported Microsoft Word (.docx) files are now letter sized by default, rather than A4 sized.
 ```
 
 ```
