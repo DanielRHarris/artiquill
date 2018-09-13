@@ -5,4 +5,4 @@ Artiquill combines a simplistic, distraction free editing experience, with a pow
 
 ___
 
-## Artiquill Features:
+### Artiquill Features:
