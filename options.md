@@ -1,5 +1,3 @@
-### Options
-
 Toggle proofreading modules, the "Night Mode" editor theme,  background music, and more from the "Options" toolbox panel.
 
 ![](assets/options.jpeg)

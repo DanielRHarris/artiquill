@@ -1,5 +1,3 @@
-### Proofreading
-
 Built on top of a powerful natural speech engine, Artiquill comes packed with 15 powerful writing and grammar proofreading tools designed to refine and improve your writing and editing.
 
 ![](/assets/proofreading.jpeg)
@@ -67,6 +65,4 @@ Checks for hard to read sentences and paragraphs that should be simplified.![](/
 #### Spelling
 
 Checks for incorrect spelling and suggests corrections.![](/assets/spelling.jpeg)
-
-
 
