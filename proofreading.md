@@ -4,7 +4,7 @@ Built on top of a powerful natural speech engine, Artiquill comes packed with 15
 
 ![](/assets/proofreading.jpeg)
 
-___
+---
 
 Activate one or more of the following proofreading modules from the "Options" toolbox panel, and view the feedback from the "Proofreading" toolbox panel. \*Please note that activating too many modules at once may slow down the proofreading speed.
 
@@ -67,10 +67,6 @@ Checks for hard to read sentences and paragraphs that should be simplified.![](/
 #### Spelling
 
 Checks for incorrect spelling and suggests corrections.![](/assets/spelling.jpeg)
-
-#### 
-
-#### 
 
 
 
