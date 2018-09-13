@@ -4,5 +4,3 @@ Artiquill combines a simplistic, distraction free editing experience, with a pow
 <!--<a href="https://www.microsoft.com/store/apps/9ngz5k6km14k?ocid=badge"><img src="/assets/English_Get_it_Win_10_864X312.svg" alt="Get it on Windows 10" style="width: 165px, height: 40px" width="165" height="40" /></a>--></div>
 
 ___
-
-### Artiquill Features:
