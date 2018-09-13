@@ -1,6 +1,12 @@
-Built on top of a powerful natural speech engine, the writing and grammar tools aid in writing refinement and editing.
+### Proofreading
 
-Activate one or more of the following writing and grammar modules from the "Options" toolbox panel, and view the feedback from the "Proofreading" toolbox panel. \*Please note that activating too many modules at once may slow down the proofreading speed.
+Built on top of a powerful natural speech engine, Artiquill comes packed with 15 powerful writing and grammar proofreading tools designed to refine and improve your writing and editing.
+
+![](/assets/proofreading.jpeg)
+
+---
+
+Activate one or more of the following proofreading modules from the "Options" toolbox panel, and view the feedback from the "Proofreading" toolbox panel. \*Please note that activating too many modules at once may slow down the proofreading speed.
 
 #### Passive Voice
 
@@ -60,11 +66,7 @@ Checks for hard to read sentences and paragraphs that should be simplified.![](/
 
 #### Spelling
 
-Checks spelling and suggests corrections.![](/assets/spelling.jpeg)
-
-#### 
-
-#### 
+Checks for incorrect spelling and suggests corrections.![](/assets/spelling.jpeg)
 
 
 
